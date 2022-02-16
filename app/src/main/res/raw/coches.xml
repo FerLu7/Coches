@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coches>
+    <coche>
+        <nombre>Subaru</nombre>
+        <foto>subaru</foto>
+    </coche>
+    <coche>
+        <nombre>Lamborgini</nombre>
+        <foto>Lamborgini</foto>
+    </coche>
+    <coche>
+        <nombre>Chevrolet</nombre>
+        <foto>chevrolet</foto>
+    </coche>
+    <coche>
+        <nombre>BMW</nombre>
+        <foto>bmw</foto>
+    </coche>
+    <coche>
+        <nombre>Renault</nombre>
+        <foto>renault</foto>
+    </coche>
+    <coche>
+        <nombre>Audi</nombre>
+        <foto>audi</foto>
+    </coche>
+</coches>
